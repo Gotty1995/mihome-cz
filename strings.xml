@@ -225,7 +225,7 @@ within effective range and try again"</string>
     <string name="button_bind_mitv">Sign in</string>
     <string name="button_bind_success">Connected successfully</string>
     <string name="button_bind_tips">Tap any button within %d seconds to connect</string>
-    <string name="camera">摄像机</string>
+    <string name="camera">Kamera</string>
     <string name="camera_bind_erro_time_out">Connection timed out, reset camera and try again</string>
     <string name="camera_bind_erro_verify_coder">The code you entered is incorrect</string>
     <string name="camera_bind_error">"Couldn't pair"</string>
@@ -541,8 +541,8 @@ to transfer network info to camera"</string>
     <string name="device_group_title_bluetooth">Bluetooth device</string>
     <string name="device_group_title_others">Other devices</string>
     <string name="device_group_title_virtualgroup">Device group</string>
-    <string name="device_has_been_reset">设备已经被重置</string>
-    <string name="device_has_been_reset_subtitle">请删除设备后重新绑定</string>
+    <string name="device_has_been_reset">Zařízení bylo resetováno</string>
+    <string name="device_has_been_reset_subtitle">Vymažte zařízení a zopakujte jeho opětovné připojení</string>
     <string name="device_heater">Water heater</string>
     <string name="device_humidifier">Humidifier</string>
     <string name="device_juicer">Juicer</string>
@@ -606,7 +606,8 @@ to transfer network info to camera"</string>
     <string name="device_more_verify_pin_desc">Enter current password</string>
     <string name="device_more_verify_pin_error">Incorrect password, enter again</string>
     <string name="device_more_verify_success">Verified</string>
-    <string name="device_morsecurity_clear_hint">请牢记您的密码，忘记后将无法找回，仅能通过物理重置设备来重置密码</string>
+    <string name="device_morsecurity_clear_hint">
+Mějte na paměti vaše heslo, nezapomeňte, že se nebude moci obnovit a to pouze prostřednictvím zařízení pro fyzické resetování, které obnoví heslo</string>
     <string name="device_network_error">"Couldn't add account, skip?"</string>
     <string name="device_network_error_strong">"Couldn't add, check your network connection"</string>
     <string name="device_not_support_now">"The device isn't supported on current version. Update the app to the latest version."</string>
@@ -684,7 +685,7 @@ After you've checked everything, refresh the device list."</string>
     <string name="device_state_close">Off</string>
     <string name="device_state_open">On</string>
     <string name="device_stb">Set-top box</string>
-    <string name="device_strong_binded_subtitle">当前所有者解除设备绑定并且重置设备后才可重新绑定</string>
+    <string name="device_strong_binded_subtitle">Současný majitel může zařízení odpojit a resetovat před opětovným připojením</string>
     <string name="device_tag_add_title">Device group</string>
     <string name="device_tv">TV</string>
     <string name="device_unconnected_tips">Connect to device now?</string>
@@ -941,7 +942,7 @@ Tap to buy some"</string>
     <string name="humidity_above">Higher than specified humidity</string>
     <string name="humidity_above_format">%1$s湿度高于%2$d%3$s</string>
     <string name="humidity_less">Lower than specified humidity</string>
-    <string name="humidity_less_format">%1$s湿度低于%2$d%3$s</string>
+    <string name="humidity_less_format">%1$sVlhkost pod%2$d%3$s</string>
     <string name="i_know">Got it</string>
     <string name="ignore">Ignore</string>
     <string name="import_scene_exceed_max_size">Should import up to 60 tasks</string>
